@@ -1,10 +1,14 @@
-#Sign-In/Sign-Up Web Page
+<div align="center">
+  
+  <h2 align="center">Responsive Sign-In & Sign-Up Page</h2>
 
-A modern and responsive web page for user authentication, featuring a sign-in and sign-up interface with dynamic animations.
+  A modern and responsive web page for user authentication, featuring a sign-in and sign-up interface with dynamic animations.
 
-##Do you see live demo of this Page?
-Please click in below on Demo:
-<a src="https://lavnish1997.github.io/Devtern_Task_01/">Demo</a>
+  <a href="https://lavnish1997.github.io/Devtern_Task_01/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
 
 
 ###Table of Contents
